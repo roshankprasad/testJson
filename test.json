@@ -1,0 +1,18 @@
+{
+  "customer": {
+    "Appversion": {
+      "appVersion": "2.0.5",
+      "minAppVersion": "2.0.2",
+      "latestAppVersion": "2.0.11",
+      "updateMessage ": "Require Update"
+    }
+  },
+  "seller": {
+    "Appversion": {
+      "appVersion": "2.0.5",
+      "minAppVersion": "2.0.2",
+      "latestAppVersion": "2.0.11",
+      "updateMessage ": "Critical Update "
+    }
+  }
+}
